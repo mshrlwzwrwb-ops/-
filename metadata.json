@@ -1,0 +1,6 @@
+{
+  "name": "כלים - ארגז הכלים השימושי ליומיום",
+  "description": "משחקי נוסטלגיה - פורטל משחקי רטרו וארקייד קלאסיים: טטריס, פקמן, פלאפי בירד, סנייק, שובר לבנים, פולשי החלל, פונג ושולה המוקשים.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
